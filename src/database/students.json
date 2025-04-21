@@ -1,0 +1,72 @@
+[
+    {
+        "id": 2,
+        "firstName": "Sonyaaaaa",
+        "lastName": "minut",
+        "course": 4,
+        "faculty": "IT"
+    },
+    {
+        "id": 3,
+        "firstName": "Javohir",
+        "lastName": "Nazarov",
+        "course": 1,
+        "faculty": "Matematika"
+    },
+    {
+        "id": 4,
+        "firstName": "Malika",
+        "lastName": "Karimova",
+        "course": 4,
+        "faculty": "IT"
+    },
+    {
+        "id": 5,
+        "firstName": "Shaxzod",
+        "lastName": "Qodirov",
+        "course": 2,
+        "faculty": "Tibbiyot"
+    },
+    {
+        "id": 6,
+        "firstName": "Sonya",
+        "lastName": "minut",
+        "course": 3,
+        "faculty": "Filologiya"
+    },
+    {
+        "id": 6,
+        "firstName": "Sonya",
+        "lastName": "minut",
+        "course": 3,
+        "faculty": "Filologiya"
+    },
+    {
+        "id": 6,
+        "firstName": "Sonya",
+        "lastName": "minut",
+        "course": 3,
+        "faculty": "Filologiya"
+    },
+    {
+        "firstName": "Sonya",
+        "lastName": "minut",
+        "course": "a",
+        "faculty": "Filologiya",
+        "id": 7
+    },
+    {
+        "firstName": "Sonya",
+        "lastName": "minut",
+        "course": "a",
+        "faculty": "Filologiya",
+        "id": 8
+    },
+    {
+        "firstName": "Sony a",
+        "lastName": "minut",
+        "course": 4,
+        "faculty": "Filologiya",
+        "id": 9
+    }
+]

@@ -59,6 +59,7 @@ let servise = {
 
         data.id = Io.readFile().reduce((max, student) => max < student.id ? student.id : max, 0) + 1
         if(isvalid(data) && [...Object.keys(sxema)].length == 5) {
+            data.course = parseInt(data.course)
             Io.updateFile(data)
             return res.status(201).send({message:"Student created !", data})
         }

@@ -6,7 +6,7 @@ let Io = {
      * @property
      *  // file manzili
      */
-    root:path.join(process.cwd(),"database","students.json"),
+    root:path.join(process.cwd(),"src","database","students.json"),
     /**
      * @function
      * @returns Array or false
